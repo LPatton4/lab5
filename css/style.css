@@ -1,0 +1,40 @@
+table { 
+	width: 850px;
+	background-color: white;	
+	padding: 0px;
+	margin: 5px auto
+}
+table, tr, td, th {
+	border: 3px solid black;
+}
+th {
+	font-size: larger;
+}
+body {
+	background-color: #6574cd;
+	font-family: 'FreeMono', monospace;
+}
+h1{
+	text-align: center;
+	color: yellow;
+}
+#mercury {
+	width: 60px;
+	float: none;
+}
+#venus {
+	width: 60px;
+	float: none;
+}
+#earth {
+	width: 60px;
+	float: none;
+}
+#mars {
+	width: 60px;
+	float: none;
+}
+p {
+	color: yellow;
+	font-size: larger;
+}
